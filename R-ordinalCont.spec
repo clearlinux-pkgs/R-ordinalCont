@@ -4,7 +4,7 @@
 #
 Name     : R-ordinalCont
 Version  : 2.0.2
-Release  : 6
+Release  : 7
 URL      : https://cran.r-project.org/src/contrib/ordinalCont_2.0.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ordinalCont_2.0.2.tar.gz
 Summary  : Ordinal Regression Analysis for Continuous Scales
